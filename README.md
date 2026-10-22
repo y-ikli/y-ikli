@@ -11,7 +11,7 @@ Je conçois des chaînes de données fiables et traçables, avec Python, SQL et 
 | Projet | Ce qu'il montre | Accès |
 |---|---|---|
 | **MolScout** | IA générative pour la recherche pharmaceutique : interroger des documents confidentiels en local, réponses citées et vérifiées, chimie calculée avec RDKit | Dépôt privé — présentation sur [mon portfolio](https://y-ikli.github.io/projets/molscout/) |
-| **[Media Data Platform](https://github.com/y-ikli/media-data-platform)** | ELT multi-sources vers BigQuery, modèles dbt en couches, tests et intégration continue | En cours de mise à jour |
+| **[Media Data Platform](https://github.com/y-ikli/media-data-platform)** | ELT multi-sources vers BigQuery, modèles dbt en couches, chargements rejouables, 43 étapes dbt et 129 tests Python | Code public — [présentation](https://y-ikli.github.io/projets/media_data_platform/) |
 
 ### Ma façon de travailler
 
